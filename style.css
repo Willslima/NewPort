@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    background:#3165b0;
+}
+
+.cont0 {
+    display: flex;
+    justify-content: center;
+    height: 25%;
+    width: 100%;
+    border: 1px solid red;
+}
+.cont1 {
+    display: flex;
+    justify-content: center;
+    height: 50%;
+    width: 100%;
+    border: 1px solid red;
+}
+.cont2 {
+    display: flex;
+    justify-content: center;
+    height: 25%;
+    width: 100%;
+    border: 1px solid red;
+}
